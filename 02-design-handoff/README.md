@@ -1,5 +1,26 @@
 # 7.22 디자인-개발 핸드오프
 
+## 0.요구 조건
+
+테스트는 다음 조건을 충족해야 합니다.
+
+- [ ] 모두가 접근 가능
+- [ ] 의미있는 구조 설계
+- [ ] 체계적인 표현 설계
+- [ ] 원할한 상호작용 설계
+
+- 1. Figma 결과
+
+![result](/02-design-handoff/assets/image.png)
+
+- 2. localhost에서 구현한 결과
+
+![result on localhost](/02-design-handoff/assets/image2.png)
+
+- 3. 파일 경로 구성
+
+![파일 경로 구성](/02-design-handoff/assets/image3.png)
+
 ## 1. 마크업
 
 - 메인 제목인 h1으로 제목을 설정함.
