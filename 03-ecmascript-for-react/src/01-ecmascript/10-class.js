@@ -41,6 +41,22 @@ const _ApiClient = (function () {
 
 // 🔶 Class 구문을 사용해 ApiClient 클래스를 작성합니다.
 // 참고: https://mzl.la/3UdwrNE
+class ApiClient{
+  // 비공개 멤버
+  #endpoint;
+
+  //생성자함수
+  constructor(endpoint){
+    this.#endpoint = endpoint'
+  }
+
+  readAll(){}
+  readOne(){}
+  create(){}
+  update(){}
+  delete(){}
+}
+
 
 const todosService = new _ApiClient(
   'https://jsonplaceholder.typicode.com/todos'
